@@ -1,0 +1,30 @@
+.work-card {
+  padding: 8px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  align-items: center;
+}
+
+.work-logo {
+  height: 210px;
+}
+
+.work-info {
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+}
+.work-dates {
+  color: grey;
+}
+.work-desc {
+  text-align: left;
+}
+
+.company-name {
+  font-size: 25px;
+  margin-bottom: 5px;
+  font-weight: 400;
+}
